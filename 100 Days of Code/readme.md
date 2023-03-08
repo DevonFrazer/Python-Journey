@@ -1,10 +1,9 @@
-# **Leap Year Calculator**
+# **Pizza Order Calculator**
 ## Utilization
-The use of this calculator is to help determine whether a selected year is a leap year or not. 
+This application allows a person to order a pizza by determining the size of the pizza (S, M, L), if they would like to add pepperoni, and if they would like to add extra cheese. After answering the prompts it will tell them their final bill.
+## Sharpening Skills
+    1. Continued to work with if/else/elif statements.
+    2. Utilizing if/else statements inside of if/else statements
+    3. Focused on the importance of making the code easy to read and efficient.
 
-[Leap Year Screen Shot.pdf](https://github.com/DevonFrazer/Python-Journey/files/10923030/Leap.Year.Screen.Shot.pdf)
-
-## Lessons Learned
-    1. You can utilize as many if/else/elif statements as needed to set the paramaters of the results you want to achieve when someone gives inputs.
-    2. Introduction to the Modulo Operation - is used to divide 2 numbers and get the remainder.
-    3. Using a flow chart to help guide your if/else statements is a good practice to have in order to avoid mistakes.
+[Pizza Order Calculator.pdf](https://github.com/DevonFrazer/Python-Journey/files/10925590/Pizza.Order.Calculator.pdf)
