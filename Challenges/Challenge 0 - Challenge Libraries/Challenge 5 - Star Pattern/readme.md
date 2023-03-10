@@ -14,7 +14,7 @@ Desired Terminal Output:
 
 Example:
 
-![Terminal Output Picture](insertLink)
+![Terminal Output Picture](https://github.com/Thesnowmanndev/Python-Journey/blob/Star-Pattern-Challenge/Challenges/Challenge%200%20-%20Challenge%20Libraries/Challenge%205%20-%20Star%20Pattern/terminal-output.png?raw=true)
 
 ## Helpful Links
 
