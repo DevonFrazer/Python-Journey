@@ -1,3 +1,4 @@
+App-9-Maze-Escape
 # **MAZE ESCAPE**
 ## Utilization
 This Python coding had pre-determined functions on a site called Reeborg's World (This site was provided by the Udemy Python Course) where a random 'flag' was randomly placed in a pre made maze. The code I made allowed me to move the robot to wherever the flag was planted no matter where the robot started.
